@@ -14,6 +14,10 @@
           "value": "UsernameHolder"
         },
         {
+          "name": "**Group Rank**",
+          "value": "RankHolder"
+        },
+        {
           "name": "**User**",
           "value": "UserProfileHolder"
         }
