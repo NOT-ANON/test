@@ -1,0 +1,29 @@
+{
+  "content": "ContentHolder",
+  "embeds": [
+    {
+      "title": "**Execution Logs**",
+      "color": 12802303,
+      "fields": [
+        {
+          "name": "**Server ID**",
+          "value": "GUIDHolder"
+        },
+        {
+          "name": "**Username**",
+          "value": "UsernameHolder"
+        },
+        {
+          "name": "**User**",
+          "value": "UserProfileHolder"
+        }
+      ],
+      "footer": {
+        "text": "[AstolfoWare]"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/991832758403997746/991951234737127444/unknown.png"
+      }
+    }
+  ]
+}
